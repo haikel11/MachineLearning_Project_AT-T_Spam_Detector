@@ -13,5 +13,3 @@ AT&T has been able to manually flag spam messages for a time, but they are looki
 ## Goals
 
 Your goal is to build a spam detector, that can automatically flag spams as they come based sollely on the sms' content.
-
-video link : https://share.vidyard.com/watch/XjSiDSUSsWawfWPWmZS5XT?
